@@ -1,0 +1,2159 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6AACFD12B198C42B}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2404.888 20.588 3396.957
+ }
+ {
+  components {
+   MeshObject "{6AACFD12867F4785}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2434.828 21.299 3387.043
+ }
+ {
+  components {
+   MeshObject "{6AACFD1168855961}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2382.313 20.076 3370.691
+ }
+ {
+  components {
+   MeshObject "{6AACFD111F91354E}" {
+    Object "{F0C50CEECEB16029}Assets/Props/Wrecks/BMP1/BMP1_wreck_hull.xob"
+   }
+  }
+  coords 2413.507 20.349 3335.2
+  angles 0 51 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD11E263C09A}" {
+    Object "{BF3012179283F82A}Assets/Props/Wrecks/BMP1/BMP1_wreck_turret.xob"
+   }
+  }
+  coords 2415.927 20.6 3342.831
+ }
+ {
+  components {
+   MeshObject "{6AACFD11EF8ECE5D}" {
+    Object "{4A34B288E4056C0D}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_cargo_wreck.xob"
+   }
+  }
+  coords 2434.52 20.234 3340.495
+ }
+ {
+  components {
+   MeshObject "{6AACFD11F6E6EEC2}" {
+    Object "{63DA178B0910309A}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_fuel_tank_wreck.xob"
+   }
+  }
+  coords 2427.38 19.547 3320.304
+ }
+ {
+  components {
+   MeshObject "{6AACFD11FD71CBDB}" {
+    Object "{E529AA420D999417}Assets/Vehicles/Wheeled/Ural4320/VehParts/Ural_4320_repair_box_wreck.xob"
+   }
+  }
+  coords 2466.414 19.891 3335.589
+  angles 0 110 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD1168855961}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2693.446 22.472 3378.054
+  angles 3.322 -21.75 -1.324
+ }
+ {
+  components {
+   MeshObject "{6AACFD12B198C42B}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2704.646 22.782 3410.752
+  angles 8.249 -21.581 1.512
+ }
+ {
+  components {
+   MeshObject "{6AACFD12867F4785}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2736.125 23.621 3412.468
+  angles 0.664 -21.786 1.662
+ }
+ {
+  components {
+   MeshObject "{6AACFD11EF8ECE5D}" {
+    Object "{4A34B288E4056C0D}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_cargo_wreck.xob"
+   }
+  }
+  coords 2753.262 21.287 3369.265
+  angles -0.932 -21.288 -7.283
+ }
+ {
+  components {
+   MeshObject "{6AACFD111F91354E}" {
+    Object "{F0C50CEECEB16029}Assets/Props/Wrecks/BMP1/BMP1_wreck_hull.xob"
+   }
+  }
+  coords 2735.532 22.455 3356.573
+  angles 1.976 29.568 -7.072
+ }
+ {
+  components {
+   MeshObject "{6AACFD11F6E6EEC2}" {
+    Object "{63DA178B0910309A}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_fuel_tank_wreck.xob"
+   }
+  }
+  coords 2753.948 21.619 3348.066
+  angles 6.615 -21.92 -2.654
+ }
+ {
+  components {
+   MeshObject "{6AACFD11FD71CBDB}" {
+    Object "{E529AA420D999417}Assets/Vehicles/Wheeled/Ural4320/VehParts/Ural_4320_repair_box_wreck.xob"
+   }
+  }
+  coords 2784.581 21.792 3376.281
+  angles 2.471 88.304 -7.194
+ }
+ {
+  components {
+   MeshObject "{6AACFD1168855961}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2530.215 23.62 3452.168
+  angles 0.548 -17.817 1.704
+ }
+ {
+  components {
+   MeshObject "{6AACFD12B198C42B}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2543.696 23.544 3483.99
+  angles -1.932 -17.545 -3.14
+ }
+ {
+  components {
+   MeshObject "{6AACFD12867F4785}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2575.204 23.05 3483.609
+  angles -0.273 -17.733 -0.853
+ }
+ {
+  components {
+   MeshObject "{6AACFD11EF8ECE5D}" {
+    Object "{4A34B288E4056C0D}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_cargo_wreck.xob"
+   }
+  }
+  coords 2589.134 23.518 3439.271
+  angles -0.273 -17.733 -0.853
+ }
+ {
+  components {
+   MeshObject "{6AACFD111F91354E}" {
+    Object "{F0C50CEECEB16029}Assets/Props/Wrecks/BMP1/BMP1_wreck_hull.xob"
+   }
+  }
+  coords 2570.815 23.482 3427.964
+  angles 11.514 33.305 0.166
+ }
+ {
+  components {
+   MeshObject "{6AACFD11F6E6EEC2}" {
+    Object "{63DA178B0910309A}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_fuel_tank_wreck.xob"
+   }
+  }
+  coords 2588.409 22.14 3418.026
+  angles 5.602 -17.595 2.897
+ }
+ {
+  components {
+   MeshObject "{6AACFD11FD71CBDB}" {
+    Object "{E529AA420D999417}Assets/Vehicles/Wheeled/Ural4320/VehParts/Ural_4320_repair_box_wreck.xob"
+   }
+  }
+  coords 2620.876 21.739 3444.141
+  angles -3.363 92.693 -4.622
+ }
+ {
+  components {
+   MeshObject "{6AACFD12867F4785}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2661.187 22.885 3445.178
+  angles 2.026 -17.948 -5.343
+ }
+ {
+  components {
+   MeshObject "{6AACFD11EF8ECE5D}" {
+    Object "{4A34B288E4056C0D}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_cargo_wreck.xob"
+   }
+  }
+  coords 2674.953 21.558 3400.771
+  angles -0.644 -17.777 6.756
+ }
+ {
+  components {
+   MeshObject "{6AACFD12867F4785}" {
+    Object "{CB616193C10DD426}Assets/Props/Wrecks/T62/T62_wreck_hull.xob"
+   }
+  }
+  coords 2505.998 23.616 3443.349
+  angles 5.385 -18.091 -3.627
+ }
+ {
+  components {
+   MeshObject "{6AACFD11EF8ECE5D}" {
+    Object "{4A34B288E4056C0D}Assets/Vehicles/Wheeled/Ural4320/Ural_4320_cargo_wreck.xob"
+   }
+  }
+  coords 2519.945 22.587 3399.365
+  angles 16.128 -19.589 -6.548
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2475.556 17.629 3772.107
+  angles -7 155 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2431.645 16.9 3747.404
+  angles -7 176 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2441.726 17.378 3784.068
+  angles -7 138 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD0276DE6D0D}" {
+    Object "{7E6313D053EA0F07}Assets/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.xob"
+   }
+  }
+  coords 2447.51 14.753 3808.628
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2463.598 18.345 3692.936
+  angles -7 155 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2429.781 17.882 3704.86
+  angles -7 138 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2419.704 16.902 3668.217
+  angles -7 176 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD0276DE6D0D}" {
+    Object "{7E6313D053EA0F07}Assets/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.xob"
+   }
+  }
+  coords 2435.571 17.193 3729.416
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2385.176 16.244 3694.145
+  angles -7 155 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2351.358 15.495 3706.083
+  angles -7 138 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2341.273 15.852 3669.431
+  angles -7 176 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD0276DE6D0D}" {
+    Object "{7E6313D053EA0F07}Assets/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.xob"
+   }
+  }
+  coords 2357.139 15.338 3730.647
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2461.203 17.758 3741.552
+  angles -7 138 0
+ }
+ {
+  components {
+   MeshObject "{6AACFD178DD858CE}" {
+    Object "{A98B342A8B226409}Assets/Vehicles/Wheeled/M923A1/M923A1_Cargo_Wreck.xob"
+   }
+  }
+  coords 2415.501 17.182 3720.938
+  angles -7 138 0
+ }
+ {
+  components {
+   MeshObject "{6AAF36644CD28784}" {
+    Object "{DA76EA654F1B813E}Assets/Structures/Cultural/Castles/Castle_01/dst/Castle_01_Bridge_debris7.xob"
+   }
+  }
+  coords 3284.083 27.243 3627.406
+  angles 0 7 0
+ }
+ {
+  components {
+   MeshObject "{6AAF36642608B579}" {
+    Object "{A2F3764F76B41BC8}Assets/Structures/Cultural/Castles/Castle_01/dst/Castle_01_Bridge_debris8.xob"
+   }
+  }
+  coords 3283.828 27.299 3627.474
+  angles 0 6 0
+ }
+ {
+  components {
+   MeshObject "{6AAF366465B228C0}" {
+    Object "{AABB78BCDD3FD48D}Assets/Structures/Cultural/Castles/Castle_01/dst/Castle_01_Bridge_debris1.xob"
+   }
+  }
+  coords 3283.116 27.324 3620.206
+  angles 0 -174 0
+ }
+ {
+  components {
+   MeshObject "{6AAF366465B228C0}" {
+    Object "{AABB78BCDD3FD48D}Assets/Structures/Cultural/Castles/Castle_01/dst/Castle_01_Bridge_debris1.xob"
+   }
+  }
+  coords 3283.811 27.233 3627.733
+  angles 0 6 0
+ }
+}
+$grp SplineShapeEntity {
+ {
+  coords 2349.589 19.666 3339.944
+  Points {
+   ShapePoint "{6AACFD074F3AFEC7}" {
+    Position -0.006 -1.652 -0.004
+   }
+   ShapePoint "{6AACFD07527DE918}" {
+    Position 89.38 0.337 3.068
+   }
+   ShapePoint "{6AACFD07535F7E9A}" {
+    Position 136.824 1.828 20.813
+   }
+   ShapePoint "{6AACFD0757BB1197}" {
+    Position 170.46 3.323 70.131
+   }
+   ShapePoint "{6AACFD075A0F3894}" {
+    Position 210.961 2.808 118.637
+   }
+   ShapePoint "{6AACFD075AA2FFE1}" {
+    Position 260.747 2.55 133.206
+   }
+   ShapePoint "{6AACFD075BC7F01F}" {
+    Position 310.872 1.838 96.429
+   }
+   ShapePoint "{6AACFD075D61AD49}" {
+    Position 356.279 1.447 54.474
+   }
+   ShapePoint "{6AACFD075EB87DEB}" {
+    Position 411.509 1.716 37.035
+   }
+   ShapePoint "{6AACFD075F86BD2B}" {
+    Position 477.916 2.217 38.747
+   }
+  }
+  {
+   RiverEntity : "{B7B923DFE6B4F9B9}Prefabs/WEGenerators/Water/River/R_RiverMedium_01.et" {
+    coords 0 0 0
+    Width 168.2
+    GUID "6AACFD073ABCEBAC"
+   }
+  }
+ }
+ {
+  coords 2315.609 15.467 3686.173
+  Points {
+   ShapePoint "{6AACFD0B7A16EBB4}" {
+    Position 0 -1.35 0
+   }
+   ShapePoint "{6AACFD0B7D1161CC}" {
+    Position 49.736 0.252 8.825
+   }
+   ShapePoint "{6AACFD0B7DC79E45}" {
+    Position 80.477 0.47 15.583
+   }
+   ShapePoint "{6AACFD0B7EB618DE}" {
+    Position 108.669 1.721 26.875
+   }
+   ShapePoint "{6AACFD0B7F48329C}" {
+    Position 123.743 1.194 43.733
+   }
+   ShapePoint "{6AACFD0B4038636F}" {
+    Position 132.172 2.305 66.088
+   }
+   ShapePoint "{6AACFD0B429F7726}" {
+    Position 143.303 0.628 98.884
+   }
+   ShapePoint "{6AACFD0B4355A7D0}" {
+    Position 158.829 -0.642 121.863
+   }
+  }
+  {
+   RiverEntity : "{B7B923DFE6B4F9B9}Prefabs/WEGenerators/Water/River/R_RiverMedium_01.et" {
+    coords 0 0 0
+    Width 126.9
+    GUID "6AACFD0B4609B122"
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{034A45B0D41025B9}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_01_Corner.et" {
+ {
+  coords 3236.085 3.109 3595.034
+  angles 0 -175 0
+ }
+ {
+  coords 3229.522 3.047 3592.861
+  angles 0 -86 0
+ }
+ {
+  coords 3279.739 2.512 3589.421
+  angles 0 5 0
+ }
+ {
+  coords 3288.075 1.912 3679.162
+  angles 0 -85 0
+ }
+ {
+  coords 3196.764 0.954 3685.117
+  angles 0 -174 0
+ }
+ {
+  coords 3189.442 1.976 3596.574
+  angles 0 95 0
+ }
+ {
+  coords 3231.577 1.326 3680.415
+  angles 0 5 0
+ }
+}
+GenericEntity : "{04BB4FCB7CE1FFE4}Prefabs/Structures/BuildingParts/Doors/DoorSet_Arch_A_EXT_B.et" {
+ coords 3194.101 19.758 3644.69
+ angles 0 96 0
+ scale 1.83
+ {
+  GenericEntity {
+   ID "568C83949FE1F24A"
+   coords 0 0 0
+  }
+  GenericEntity {
+   ID "568C83949FE1F22B"
+   coords 0 0 0
+  }
+ }
+}
+$grp GenericEntity : "{0A6B5B1CC60EC137}Prefabs/Props/Wrecks/LAV25_wreck/LAV25_wreck_static.et" {
+ {
+  coords 2462.748 18.302 3758.003
+  angles 0 147 0
+ }
+ {
+  coords 2447.465 18.277 3757.863
+  angles 0 128 0
+ }
+ {
+  coords 2413.584 15.748 3765.953
+  angles 0 177 0
+ }
+ {
+  coords 2401.645 17.906 3686.74
+  angles 0 177 0
+ }
+ {
+  coords 2450.809 19.209 3678.791
+  angles 0 147 0
+ }
+ {
+  coords 2435.526 18.29 3678.651
+  angles 0 128 0
+ }
+ {
+  coords 2323.213 15.194 3687.971
+  angles 0 177 0
+ }
+ {
+  coords 2372.377 16.794 3680.021
+  angles 0 147 0
+ }
+ {
+  coords 2357.094 15.707 3679.882
+  angles 0 128 0
+ }
+ {
+  coords 2433.078 18.667 3723.419
+  angles 0 177 0
+ }
+ {
+  coords 2387.36 16.027 3702.824
+  angles 0 177 0
+ }
+}
+$grp GenericEntity : "{117F531A010E0032}PrefabLibrary/DefaultLibrary/Props/Military/T62_wreck.et" {
+ {
+  coords 2454.253 22.294 3375.869
+  angles 6.202 0 7.974
+ }
+ {
+  coords 2481.997 23.119 3404.82
+  angles 2.114 -46.679 6.859
+ }
+ {
+  coords 2758.266 22.798 3409.085
+  angles -11.321 -23.763 4.94
+ }
+ {
+  coords 2773.271 22.494 3446.135
+  angles -0.215 -68.839 10.362
+ }
+ {
+  coords 2597.017 23.384 3478.707
+  angles -11.949 -23.131 14.288
+ }
+ {
+  coords 2614.639 22.852 3514.755
+  angles -7.944 -61.893 -14.939
+ }
+ {
+  coords 2683.061 22.456 3440.393
+  angles -1.648 -23.003 0.699
+ }
+ {
+  coords 2527.871 23.712 3438.563
+  angles 6.877 -25.856 -8.206
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{1321E90FE0CF8C3C}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_03_d.et" {
+ {
+  components {
+   MeshObject "{506EDA9D46FC6C06}" {
+    Materials {
+     MaterialAssignClass "{6AAF364F14028CEE}" {
+      SourceMaterial "Mlod"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF364F14028CDE}" {
+      SourceMaterial "Wall_base"
+      AssignedMaterial "{50C5720F60845798}Assets/Structures/Cultural/Castles/Castle_01/Data/Castle_01_OuterWall_04.emat"
+     }
+    }
+   }
+  }
+  coords 3189.925 0.551 3641.568
+  angles 0 95 0
+ }
+ {
+  components {
+   MeshObject "{506EDA9D46FC6C06}" {
+    Materials {
+     MaterialAssignClass "{6AAF364F1AEE09CA}" {
+      SourceMaterial "Mlod"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF364F1AEE093B}" {
+      SourceMaterial "Wall_base"
+      AssignedMaterial "{50C5720F60845798}Assets/Structures/Cultural/Castles/Castle_01/Data/Castle_01_OuterWall_04.emat"
+     }
+    }
+   }
+  }
+  coords 3192.523 0.835 3641.61
+  angles 0 95 0
+ }
+ {
+  components {
+   MeshObject "{506EDA9D46FC6C06}" {
+    Materials {
+     MaterialAssignClass "{6AAF364F194F658A}" {
+      SourceMaterial "Mlod"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF364F194F65F4}" {
+      SourceMaterial "Wall_base"
+      AssignedMaterial "{50C5720F60845798}Assets/Structures/Cultural/Castles/Castle_01/Data/Castle_01_OuterWall_04.emat"
+     }
+    }
+   }
+  }
+  coords 3196.515 0.965 3647.664
+  angles 0 -85 0
+ }
+ {
+  components {
+   MeshObject "{506EDA9D46FC6C06}" {
+    Materials {
+     MaterialAssignClass "{6AAF364F121DBC26}" {
+      SourceMaterial "Mlod"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF364F121DBC17}" {
+      SourceMaterial "Wall_base"
+      AssignedMaterial "{50C5720F60845798}Assets/Structures/Cultural/Castles/Castle_01/Data/Castle_01_OuterWall_04.emat"
+     }
+    }
+   }
+  }
+  coords 3193.918 1.115 3647.622
+  angles 0 -85 0
+ }
+}
+$grp GenericEntity : "{1D0B32AA80873228}Prefabs/Props/Wrecks/LAV25_wreck/LAV25_wreck.et" {
+ {
+  coords 2469.868 17.233 3784.801
+  angles 0 141 0
+ }
+ {
+  coords 2474.406 17.884 3758.383
+  angles 0 149 0
+ }
+ {
+  coords 2424.989 17.216 3772.88
+  angles 0 100 0
+ }
+ {
+  coords 2457.929 19.099 3705.589
+  angles 0 141 0
+ }
+ {
+  coords 2462.467 19.711 3679.171
+  angles 0 149 0
+ }
+ {
+  coords 2413.05 17.85 3693.667
+  angles 0 100 0
+ }
+ {
+  coords 2379.497 16.702 3706.82
+  angles 0 141 0
+ }
+ {
+  coords 2384.035 16.892 3680.402
+  angles 0 149 0
+ }
+ {
+  coords 2334.618 15.73 3694.898
+  angles 0 100 0
+ }
+ {
+  coords 2444.483 18.333 3730.346
+  angles 0 100 0
+ }
+ {
+  coords 2398.765 17.093 3709.751
+  angles 0 100 0
+ }
+}
+$grp GenericEntity : "{1F3291C2A7E2BA00}Prefabs/Props/Wrecks/BRDM2_wreck/BRDM2_wreck_static.et" {
+ {
+  coords 2363.263 19.744 3379.359
+ }
+ {
+  coords 2672.568 23.201 3379.103
+  angles -4.31 -21.591 -1.176
+ }
+ {
+  coords 2509.523 22.833 3454.611
+  angles -6.344 -16.953 -5.495
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{24A47080B68D9777}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_01_D.et" {
+ {
+  coords 2980.188 0 2627.787
+  angles 0 25 0
+ }
+ {
+  coords 2970.061 -0.001 2631.635
+  angles 0 25 0
+ }
+ {
+  coords 2975.946 0 2613.116
+  angles 0 24 0
+ }
+ {
+  coords 2965.961 0 2617.259
+  angles 0 24 0
+ }
+ {
+  coords 2956.32 0 2620.556
+  angles 0 24 0
+ }
+ {
+  coords 2951.398 0.001 2608.75
+  angles 0 24 0
+ }
+ {
+  coords 2961.039 0 2605.452
+  angles 0 24 0
+ }
+ {
+  coords 2966.814 0 2588.54
+  angles 0 24 0
+ }
+ {
+  coords 2947.188 -0.001 2595.98
+  angles 0 24 0
+ }
+ {
+  coords 2956.829 -0.001 2592.682
+  angles 0 24 0
+ }
+}
+$grp GenericEntity : "{25B265F3E7CBDFC8}Prefabs/Props/Wrecks/BMP1_wreck/BMP1_wreck.et" {
+ {
+  coords 2443.86 21.274 3354.518
+  angles 0 74 0
+ }
+ {
+  coords 2487.771 21.989 3335.287
+  angles 0 51 0
+ }
+ {
+  coords 2756.494 22.916 3385.616
+  angles -6.508 51.076 7.488
+ }
+ {
+  coords 2804.297 22.392 3383.838
+  angles -9.561 26.781 10.886
+ }
+ {
+  coords 2593.722 23.402 3455.4
+  angles 0.745 56.327 -0.496
+ }
+ {
+  coords 2641.355 22.704 3450.409
+  angles 0.781 33.128 3.711
+ }
+ {
+  coords 2679.715 22.852 3417.037
+  angles 4.189 56.611 4.716
+ }
+ {
+  coords 2524.515 23.85 3415.14
+  angles -2.843 57.012 -10.817
+ }
+}
+$grp GenericEntity : "{2B24356C351A2538}Prefabs/Props/Wrecks/M113_wreck/M113_wreck.et" {
+ {
+  coords 2429.756 16.841 3765.058
+  angles 0 110 0
+ }
+ {
+  coords 2417.817 17.308 3685.846
+  angles 0 110 0
+ }
+ {
+  coords 2339.385 15.561 3687.077
+  angles 0 110 0
+ }
+ {
+  coords 2449.25 18.62 3722.524
+  angles 0 110 0
+ }
+ {
+  coords 2403.531 17.231 3701.929
+  angles 0 110 0
+ }
+}
+$grp GenericEntity : "{2BCCA31989E825C8}PrefabLibrary/DefaultLibrary/Props/Military/BTR70_wreck.et" {
+ {
+  coords 2477.147 22.167 3390.629
+  angles 8.004 0 -0.889
+ }
+ {
+  coords 2470.079 21.556 3369.578
+  angles 3.576 0 -0.894
+ }
+ {
+  coords 2397.105 20.042 3349.854
+  angles -4.388 0 -13.165
+ }
+ {
+  coords 2432.214 20.221 3368.929
+  angles -2.678 0 -4.464
+ }
+ {
+  coords 2373.53 19.607 3390.343
+  angles 0.02 0.862 -6.141
+ }
+ {
+  coords 2775.269 22.506 3409.233
+  angles 4.161 -22.019 3.131
+ }
+ {
+  coords 2678.019 22.302 3393.082
+  angles -0.195 -20.969 1.992
+ }
+ {
+  coords 2740.449 22.532 3394.733
+  angles -3.153 -21.562 -0.677
+ }
+ {
+  coords 2714.912 21.82 3364.182
+  angles 1.501 -21.715 -3.483
+ }
+ {
+  coords 2774.075 22.622 3431.312
+  angles 0.496 -21.931 -1.165
+ }
+ {
+  coords 2614.193 23.289 3477.595
+  angles -12.712 -14.657 -10.136
+ }
+ {
+  coords 2515.851 22.907 3468.138
+  angles -7.375 -17.927 6.089
+ }
+ {
+  coords 2578.268 22.678 3465.63
+  angles 0 -17.663 0
+ }
+ {
+  coords 2550.775 23.222 3436.855
+  angles -0.759 -17.805 -8.162
+ }
+ {
+  coords 2614.431 22.493 3499.848
+  angles 0.74 -16.965 -6.746
+ }
+ {
+  coords 2664.243 22.129 3427.169
+  angles -3.134 -17.769 1.942
+ }
+ {
+  coords 2509.114 23.451 3425.464
+  angles 6.209 -18.393 -6.719
+ }
+}
+SCR_DestructibleBuildingEntity : "{31CAD6AEE7E7E4CF}Prefabs/Structures/Cultural/Castles/Castle_01_Stairs_01.et" {
+ coords 3256.103 1.716 3681.379
+ angles 0 -176 0
+}
+$grp GenericEntity : "{33D5102FA67E1B46}Prefabs/Props/Naval/FishingRope_01.et" {
+ {
+  coords 3283.447 27.48 3624.551
+  angles 0 86 0
+ }
+ {
+  coords 3283.274 27.49 3623.276
+  angles 0 19 0
+ }
+ {
+  coords 3283.376 27.49 3623.952
+ }
+}
+StaticModelEntity : "{35E0B98A93BF8EEA}Prefabs/Structures/Services/Fire/FireStation_E_01/FireStation_E_01_Ruin.et" {
+ coords 3882.941 23.919 3022.893
+ angles 0 -8 0
+}
+StaticModelEntity : "{44A92F35E52BB1E4}Prefabs/Structures/Military/Airport/MooringMast_01/Dst/MooringMast_01_Ruin.et" {
+ coords 3903.879 24.113 3059.283
+}
+$grp SCR_DestructibleBuildingEntity : "{47787CFB7C6C904F}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_02_C.et" {
+ {
+  coords 2986.302 1.2 2623.289
+  angles 0 20 0
+ }
+ {
+  coords 2976.176 0 2627.137
+  angles 0 20 0
+ }
+ {
+  coords 2966.028 0 2630.72
+  angles 0 20 0
+ }
+ {
+  coords 2982.139 -0.001 2608.726
+  angles 0 19 0
+ }
+ {
+  coords 2972.153 0 2612.868
+  angles 0 19 0
+ }
+ {
+  coords 2962.513 0 2616.166
+  angles 0 19 0
+ }
+ {
+  coords 2977.216 0 2596.919
+  angles 0 19 0
+ }
+ {
+  coords 2957.591 0 2604.36
+  angles 0 19 0
+ }
+ {
+  coords 2963.021 0 2588.292
+  angles 0 19 0
+ }
+ {
+  coords 2973.007 0 2584.149
+  angles 0 19 0
+ }
+ {
+  coords 2953.381 0 2591.589
+  angles 0 19 0
+ }
+}
+GenericEntity : "{488C41139EFC1505}Prefabs/Structures/BuildingParts/Doors/Door_MetalGate_01_Long_LEFT_EXT_ST_B.et" {
+ components {
+  DoorComponent "{221C667A9F7D4B69}" {
+   Enabled 1
+   FakeDoor 1
+  }
+  SCR_AISmartActionComponent "{5890ED6117CBB20D}" {
+   Enabled 0
+  }
+  SCR_AISmartActionSentinelComponent "{58DCD68DCF0C9AFC}" {
+   Enabled 0
+  }
+ }
+ coords 3193.51 27.458 3648.149
+ angles 0 -84 180
+ scale 1.802
+}
+$grp GenericEntity : "{4A0EB5570B2BB36C}Prefabs/Props/Wrecks/Ural4320_wreck/Ural4320_wreck.et" {
+ {
+  coords 2449.376 20.924 3334.763
+ }
+ {
+  coords 2479.559 21.613 3319.092
+  angles 0 28 0
+ }
+ {
+  coords 2448.813 20.311 3309.704
+  angles -10 -64 0
+ }
+ {
+  coords 2470.713 21.15 3295.53
+  angles -6 0 0
+ }
+ {
+  coords 2397.866 18.783 3302.532
+  angles 0 -34 0
+ }
+ {
+  coords 2383.782 19.232 3326.45
+  angles 0 -108 0
+ }
+ {
+  coords 2383.22 19.136 3291.243
+  angles 0 27 0
+ }
+ {
+  coords 2777.694 22.247 3345.898
+  angles 3.562 -84.912 0.317
+ }
+ {
+  coords 2733.126 22.446 3320.561
+  angles -0.772 -55.745 2.721
+ }
+ {
+  coords 2769.005 22.359 3369.33
+  angles -0.156 -21.598 -2.824
+ }
+ {
+  coords 2711.171 21.269 3337.531
+  angles 5.461 -129.238 2.449
+ }
+ {
+  coords 2723.688 22.404 3304.39
+  angles -18.163 5.624 -0.904
+ }
+ {
+  coords 2802.905 22.384 3365.878
+  angles 4.69 6.092 -10.16
+ }
+ {
+  coords 2803.241 22.442 3340.748
+  angles 1.292 -21.154 3.335
+ }
+ {
+  coords 2612.129 23.056 3414.304
+  angles 0 -81.177 0
+ }
+ {
+  coords 2565.923 22.856 3392.11
+  angles -5.248 -50.967 -7.646
+ }
+ {
+  coords 2605.021 23.494 3438.191
+  angles -6.214 -17.925 1.071
+ }
+ {
+  coords 2545.121 22.881 3410.622
+  angles -3.034 -125.662 -8.758
+ }
+ {
+  coords 2555.191 23.269 3376.742
+  angles -11.849 6.665 9.991
+ }
+ {
+  coords 2638.295 22.688 3432.519
+  angles -1.512 9.059 14.825
+ }
+ {
+  coords 2637.349 23.11 3407.399
+  angles -4.959 -17.395 -6.827
+ }
+}
+StaticModelEntity : "{4D2600AFD91B0F39}Prefabs/Structures/Airport/ControlTower_01/Dst/ControlTower_01_Ruin.et" {
+ coords 3922.231 22.79 3065.955
+ angles 0 165 0
+}
+$grp SCR_DestructibleBuildingEntity : "{625C23A0F9BF5D2C}PrefabLibrary/DefaultLibrary/Structures/Landmarks/Castle_01_OuterWall_Stairs.et" {
+ {
+  coords 3240.959 2.322 3627.522
+  angles 0 4 0
+ }
+ {
+  coords 3240.882 2.347 3626.427
+  angles 0 4 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{64557952113662E8}PrefabLibrary/DefaultLibrary/Structures/Landmarks/Castle_01_OuterWall_01_Hole.et" {
+ coords 3256.422 21.58 3684.077
+ angles 0 -176 0
+}
+$grp GenericEntity : "{654B33C808C4D93E}Prefabs/Props/Wrecks/M151A2_wreck/M151A2_wreck_static.et" {
+ {
+  coords 2456.974 15.299 3813.403
+  angles 0 146 0
+ }
+ {
+  coords 2427.927 16.557 3790.424
+  angles 0 109 0
+ }
+ {
+  coords 2436.278 16.909 3766.827
+  angles 0 -165 0
+ }
+ {
+  coords 2424.338 17.977 3687.615
+  angles 0 -165 0
+ }
+ {
+  coords 2445.035 17.992 3734.19
+  angles 0 146 0
+ }
+ {
+  coords 2415.988 17.744 3711.211
+  angles 0 109 0
+ }
+ {
+  coords 2345.906 16.263 3688.846
+  angles 0 -165 0
+ }
+ {
+  coords 2366.603 15.379 3735.421
+  angles 0 146 0
+ }
+ {
+  coords 2337.556 15.519 3712.442
+  angles 0 109 0
+ }
+ {
+  coords 2455.772 18.451 3724.293
+  angles 0 -165 0
+ }
+ {
+  coords 2447.421 18.349 3747.889
+  angles 0 109 0
+ }
+ {
+  coords 2410.052 17.615 3703.698
+  angles 0 -165 0
+ }
+ {
+  coords 2401.703 17.242 3727.294
+  angles 0 109 0
+ }
+}
+$grp GenericEntity : "{6BE5C753730DBFED}Prefabs/Props/Wrecks/M923A1_wreck/M923A1_wreck_static.et" {
+ {
+  coords 2495.964 16.867 3787.291
+  angles 0 71 0
+ }
+ {
+  coords 2432.822 16.881 3781.997
+  angles 0 147 0
+ }
+ {
+  coords 2484.025 18.882 3708.079
+  angles 0 71 0
+ }
+ {
+  coords 2420.883 18.744 3702.784
+  angles 0 147 0
+ }
+ {
+  coords 2405.593 17.559 3709.31
+  angles 0 71 0
+ }
+ {
+  coords 2342.451 16.179 3704.015
+  angles 0 147 0
+ }
+ {
+  coords 2452.316 17.603 3739.463
+  angles 0 147 0
+ }
+ {
+  coords 2406.598 17.639 3718.868
+  angles 0 147 0
+ }
+}
+GenericEntity : "{736C875F2F2C1C6B}Prefabs/Structures/Military/Camps/Shelters/ShelterStorageUS_01.et" {
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Object "{797EBF77C069E81A}Assets/Structures/Industrial/CoalMineShaft_01/CoalMineShaft_01_10m_metalcover.xob"
+  }
+ }
+ coords 2071.625 8.634 2036.506
+ angles 0 -67 0
+ scale 17.31
+}
+$grp GenericEntity : "{7783AE4B44D3CF29}Prefabs/Props/Wrecks/M923A1_wreck/M923A1_wreck.et" {
+ {
+  coords 2475.609 17.964 3771.845
+  angles 0 156 0
+ }
+ {
+  coords 2431.601 17.286 3747.13
+  angles 0 177 0
+ }
+ {
+  coords 2441.864 17.833 3783.82
+  angles 0 139 0
+ }
+ {
+  coords 2465.331 15.848 3800.025
+  angles 0 120 0
+ }
+ {
+  coords 2439.71 16.368 3796.797
+  angles 0 -171 0
+ }
+ {
+  coords 2429.925 18.409 3704.607
+  angles 0 139 0
+ }
+ {
+  coords 2453.391 18.464 3720.813
+  angles 0 120 0
+ }
+ {
+  coords 2463.67 19.077 3692.633
+  angles 0 156 0
+ }
+ {
+  coords 2419.662 17.533 3667.918
+  angles 0 177 0
+ }
+ {
+  coords 2427.771 18.92 3717.585
+  angles 0 -171 0
+ }
+ {
+  coords 2351.493 15.922 3705.838
+  angles 0 139 0
+ }
+ {
+  coords 2374.959 16.889 3722.044
+  angles 0 120 0
+ }
+ {
+  coords 2385.238 16.755 3693.864
+  angles 0 156 0
+ }
+ {
+  coords 2341.23 16.316 3669.149
+  angles 0 177 0
+ }
+ {
+  coords 2349.339 15.639 3718.816
+  angles 0 -171 0
+ }
+ {
+  coords 2461.358 18.495 3741.286
+  angles 0 139 0
+ }
+ {
+  coords 2415.64 17.649 3720.691
+  angles 0 139 0
+ }
+}
+$grp GenericEntity : "{77F237994998613F}Prefabs/Props/Wrecks/UH1H_wreck/UH1H_wreck.et" {
+ {
+  coords 2483.025 18.178 3795.918
+  angles 0 135 158
+ }
+ {
+  coords 2467.18 18.907 3712.8
+  angles 0 135 158
+ }
+ {
+  coords 2387.8 19.345 3713.083
+  angles 0 135 158
+ }
+}
+SCR_DestructibleBuildingEntity : "{788F0C1721D815B9}Prefabs/Structures/Cultural/Castles/Castle_01_Bridge_wide.et" {
+ coords 3193.433 7.116 3644.267
+ angles 0 6 0
+}
+$grp SCR_DestructibleBuildingEntity : "{7A4C59C309001978}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_02_D.et" {
+ {
+  coords 2984.446 0.237 2626.271
+  angles 0 23 0
+ }
+ {
+  coords 2974.319 0 2630.119
+  angles 0 23 0
+ }
+ {
+  coords 2964.171 0 2633.703
+  angles 0 23 0
+ }
+ {
+  coords 2980.231 0 2611.675
+  angles 0 22 0
+ }
+ {
+  coords 2970.245 -0.001 2615.818
+  angles 0 22 0
+ }
+ {
+  coords 2960.604 0 2619.115
+  angles 0 22 0
+ }
+ {
+  coords 2975.309 0 2599.869
+  angles 0 22 0
+ }
+ {
+  coords 2955.682 0 2607.309
+  angles 0 22 0
+ }
+ {
+  coords 2971.099 -0.001 2587.099
+  angles 0 22 0
+ }
+ {
+  coords 2951.472 0.001 2594.539
+  angles 0 22 0
+ }
+ {
+  coords 2961.113 -0.001 2591.241
+  angles 0 22 0
+ }
+}
+StaticModelEntity : "{7D66BF1C82421DD9}Prefabs/Structures/Ruins/ShedMetal_Ruin_02/Dst/ShedMetal_Ruin_02_Ruin.et" {
+ coords 3915.452 23.415 3030.362
+ angles 0 78 0
+}
+$grp SCR_DestructibleBuildingEntity : "{7F56600080DA1A25}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Frame_V1.et" {
+ {
+  coords 2986.684 1.369 2624.262
+  angles 0 -157 0
+ }
+ {
+  coords 2976.557 -0.001 2628.11
+  angles 0 -157 0
+ }
+ {
+  coords 2966.409 0 2631.693
+  angles 0 -157 0
+ }
+ {
+  coords 2982.503 0 2609.705
+  angles 0 -158 0
+ }
+ {
+  coords 2972.517 0.001 2613.847
+  angles 0 -158 0
+ }
+ {
+  coords 2962.877 0 2617.145
+  angles 0 -158 0
+ }
+ {
+  coords 2977.581 0 2597.899
+  angles 0 -158 0
+ }
+ {
+  coords 2957.955 -0.001 2605.339
+  angles 0 -158 0
+ }
+ {
+  coords 2973.371 0 2585.128
+  angles 0 -158 0
+ }
+ {
+  coords 2963.385 0 2589.271
+  angles 0 -158 0
+ }
+ {
+  coords 2953.745 0 2592.569
+  angles 0 -158 0
+ }
+}
+$grp GenericEntity : "{90299A76FC1AE10F}Prefabs/Props/Wrecks/T62_wreck/T62_wreck_turret.et" {
+ {
+  coords 2404.908 21.771 3397.158
+  angles 0 59 0
+ }
+ {
+  coords 2434.858 22.379 3387.367
+  angles 0 -26 0
+ }
+ {
+  coords 2390.879 21.371 3372.519
+  angles -12 0 180
+ }
+ {
+  coords 2704.636 23.852 3410.744
+  angles 2.989 37.248 7.838
+ }
+ {
+  coords 2700.679 22.738 3382.842
+  angles 2.826 -21.156 -0.134
+ }
+ {
+  coords 2736.034 24.704 3412.715
+  angles 1.324 -47.695 1.205
+ }
+ {
+  coords 2543.549 24.587 3484.228
+  angles 0.784 41.231 -1.339
+ }
+ {
+  coords 2537.962 23.306 3456.497
+  angles -0.466 -19.298 -11.989
+ }
+ {
+  coords 2575.089 24.062 3483.875
+  angles -0.619 -43.733 -0.647
+ }
+ {
+  coords 2661.01 23.896 3445.383
+  angles -0.508 -43.744 -5.691
+ }
+ {
+  coords 2505.862 24.783 3443.49
+  angles 3.249 -44.114 -5.621
+ }
+}
+StaticModelEntity : "{9F836220AFBAAD06}Prefabs/Structures/Commercial/FuelStations/FuelStation_E_01/Dst/FuelStation_E_01_building_Ruin.et" {
+ coords 3880.967 24.262 3045.975
+ angles 0 167 0
+}
+$grp StaticModelEntity : "{AAF30E8CA8D4EF2C}Prefabs/Structures/Walls/Brick/BrickGate_01/BrickGate_01_base.et" {
+ {
+  components {
+   MeshObject "{56DE7C8DCD0F4E0A}" {
+    Materials {
+     MaterialAssignClass "{6AAF3673813C0417}" {
+      SourceMaterial "BrickGate_01_doors"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF3673813C0445}" {
+      SourceMaterial "BrickGate_01_walls"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+    }
+   }
+  }
+  coords 3194.292 -0.945 3644.735
+  angles 0 97 0
+  scale 1.812
+ }
+ {
+  components {
+   MeshObject "{56DE7C8DCD0F4E0A}" {
+    Materials {
+     MaterialAssignClass "{6AAF3673813C0417}" {
+      SourceMaterial "BrickGate_01_doors"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF3673813C0445}" {
+      SourceMaterial "BrickGate_01_walls"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+    }
+   }
+  }
+  coords 3194.308 -0.02 3644.872
+  angles 0 97 0
+  scale 1.812
+ }
+ {
+  components {
+   MeshObject "{56DE7C8DCD0F4E0A}" {
+    Materials {
+     MaterialAssignClass "{6AAF3673813C0417}" {
+      SourceMaterial "BrickGate_01_doors"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF3673813C0445}" {
+      SourceMaterial "BrickGate_01_walls"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+    }
+   }
+  }
+  coords 3193.531 -0.167 3644.61
+  angles 0 -83 0
+  scale 1.812
+ }
+ {
+  components {
+   MeshObject "{56DE7C8DCD0F4E0A}" {
+    Materials {
+     MaterialAssignClass "{6AAF3673813C0417}" {
+      SourceMaterial "BrickGate_01_doors"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+     MaterialAssignClass "{6AAF3673813C0445}" {
+      SourceMaterial "BrickGate_01_walls"
+      AssignedMaterial "{75809363806C2BF0}Assets/Structures/Cultural/Castles/Castle_01/Data/StoneSurface_01.emat"
+     }
+    }
+   }
+  }
+  coords 3192.236 -0.562 3644.769
+  angles 0 97 0
+  scale 1.812
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{ADDA5472F867C249}Prefabs/Structures/Cultural/Castles/Castle_01_Bridge.et" {
+ {
+  coords 3235.348 6.501 3673.571
+  angles 0 6 0
+ }
+ {
+  coords 3232.103 9.303 3601.833
+  angles 0 5 0
+ }
+ {
+  coords 3233.448 6.707 3655.498
+  angles 0 6 0
+ }
+ {
+  coords 3233.455 8.323 3617.307
+  angles 0 5 0
+ }
+}
+$grp GenericEntity : "{AE57C45CB32D6168}Prefabs/Props/Wrecks/M113_wreck/M113_wreck_static.et" {
+ {
+  coords 2454.306 17.843 3778.397
+  angles 0 120 0
+ }
+ {
+  coords 2442.367 19.686 3699.185
+  angles 0 120 0
+ }
+ {
+  coords 2363.935 16.501 3700.416
+  angles 0 120 0
+ }
+}
+$grp GenericEntity : "{C3ECB6EA12D467CB}PrefabLibrary/DefaultLibrary/Props/Military/M113_wreck.et" {
+ {
+  coords 2450.772 17.302 3767.691
+  angles -5.452 156.46 15.663
+ }
+ {
+  coords 2438.833 18.687 3688.479
+  angles -5.452 156.46 15.663
+ }
+ {
+  coords 2360.401 15.666 3689.709
+  angles -5.452 156.46 15.663
+ }
+}
+$grp GenericEntity : "{C707F02B5A64AA08}Prefabs/Props/Wrecks/BRDM2_wreck/BRDM2_wreck.et" {
+ {
+  coords 2416.651 20.251 3372.785
+ }
+ {
+  coords 2724.585 22.155 3392.537
+  angles -6.784 -21.703 -0.177
+ }
+ {
+  coords 2562.298 23.248 3464.688
+  angles 7.894 -18.215 -4.448
+ }
+ {
+  coords 2648.327 22.192 3426.137
+  angles -3.407 -16.57 -8.253
+ }
+ {
+  coords 2493.145 22.381 3424.417
+  angles 5.155 -17.863 -7.241
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{CD9542CDCCDDFFC4}PrefabLibrary/DefaultLibrary/Structures/Landmarks/Castle_01_OuterWall_01.et" {
+ {
+  coords 3262 2.471 3592.903
+  angles 0 -175 0
+ }
+ {
+  coords 3200.061 1.571 3592.655
+  angles 0 5 0
+ }
+ {
+  coords 3256.016 2.714 3593.417
+  angles 0 -175 0
+ }
+ {
+  coords 3221.453 3.312 3596.28
+  angles 0 -175 0
+ }
+ {
+  coords 3280.502 2.98 3621.437
+  angles 0 97 0
+ }
+ {
+  coords 3227.437 3.074 3595.766
+  angles 0 -175 0
+ }
+ {
+  coords 3240.534 2.716 3589.275
+  angles 0 5 0
+ }
+ {
+  coords 3288.169 2.962 3640.262
+  angles 0 -83 0
+ }
+ {
+  coords 3285.292 2.014 3661.842
+  angles 0 97 0
+ }
+ {
+  coords 3286.422 3.36 3625.119
+  angles 0 -83 0
+ }
+ {
+  coords 3283.378 2.583 3599.931
+  angles 0 -83 0
+ }
+ {
+  coords 3283.401 2.726 3646.656
+  angles 0 97 0
+ }
+ {
+  coords 3219.666 3.481 3590.901
+  angles 0 5 0
+ }
+ {
+  coords 3277.354 1.28 3682.199
+  angles 0 -175 0
+ }
+ {
+  coords 3255.887 1.717 3678.571
+  angles 0 5 0
+ }
+ {
+  coords 3213.382 0.471 3681.978
+  angles 0 5 0
+ }
+ {
+  coords 3235.734 1.096 3685.529
+  angles 0 -175 0
+ }
+ {
+  coords 3193.423 1.059 3674.476
+  angles 0 95 0
+ }
+ {
+  coords 3197.051 0.869 3653.01
+  angles 0 -85 0
+ }
+ {
+  coords 3189.313 1.621 3635.596
+  angles 0 95 0
+ }
+ {
+  coords 3192.941 2.256 3614.131
+  angles 0 -85 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{D1C13682E4590A12}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Covered_V1.et" {
+ {
+  coords 2980.482 0 2617.167
+  angles 0 25 0
+ }
+ {
+  coords 2982.174 0 2621.143
+  angles 0 -157 0
+ }
+ {
+  coords 2985.231 0.934 2620.214
+  angles 0 -157 0
+ }
+ {
+  coords 2972.047 0.001 2624.991
+  angles 0 -157 0
+ }
+ {
+  coords 2970.355 -0.171 2621.014
+  angles 0 25 0
+ }
+ {
+  coords 2964.957 -0.001 2627.645
+  angles 0 -157 0
+ }
+ {
+  coords 2961.898 -0.001 2628.574
+  angles 0 -157 0
+ }
+ {
+  coords 2960.207 0.001 2624.598
+  angles 0 25 0
+ }
+ {
+  coords 2981.122 0 2605.632
+  angles 0 -158 0
+ }
+ {
+  coords 2978.047 0.001 2606.508
+  angles 0 -158 0
+ }
+ {
+  coords 2976.426 0 2602.502
+  angles 0 24 0
+ }
+ {
+  coords 2971.136 0 2609.774
+  angles 0 -158 0
+ }
+ {
+  coords 2968.063 0 2610.651
+  angles 0 -158 0
+ }
+ {
+  coords 2966.44 0 2606.645
+  angles 0 24 0
+ }
+ {
+  coords 2961.496 0 2613.072
+  angles 0 -158 0
+ }
+ {
+  coords 2958.422 0.355 2613.948
+  angles 0 -158 0
+ }
+ {
+  coords 2956.8 -0.001 2609.943
+  angles 0 24 0
+ }
+ {
+  coords 2951.878 -0.001 2598.136
+  angles 0 24 0
+ }
+ {
+  coords 2953.499 0.001 2602.142
+  angles 0 -158 0
+ }
+ {
+  coords 2956.574 0 2601.266
+  angles 0 -158 0
+ }
+ {
+  coords 2961.518 0 2594.839
+  angles 0 24 0
+ }
+ {
+  coords 2963.141 0 2598.844
+  angles 0 -158 0
+ }
+ {
+  coords 2967.294 0.001 2577.925
+  angles 0 24 0
+ }
+ {
+  coords 2968.916 0 2581.932
+  angles 0 -158 0
+ }
+ {
+  coords 2971.99 0.001 2581.055
+  angles 0 -158 0
+ }
+ {
+  coords 2947.668 0 2585.366
+  angles 0 24 0
+ }
+ {
+  coords 2949.29 0 2589.372
+  angles 0 -158 0
+ }
+ {
+  coords 2952.364 0 2588.496
+  angles 0 -158 0
+ }
+ {
+  coords 2957.308 0 2582.069
+  angles 0 24 0
+ }
+ {
+  coords 2958.931 0 2586.074
+  angles 0 -158 0
+ }
+ {
+  coords 2962.004 0 2585.198
+  angles 0 -158 0
+ }
+}
+$grp StaticModelEntity : "{D82CCDC85716DB32}Prefabs/Props/Wrecks/CannonWreck_02/CannonWreck_02.et" {
+ {
+  coords 2475.206 19.869 3772.817
+  angles 0 156 0
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.415 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0 -0.242 0
+   }
+  }
+ }
+ {
+  coords 2419.454 19.565 3672.405
+  angles 41 -3 -180
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.416 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0 -3.465 -2.029
+    angles -57 -180 -180
+   }
+  }
+ }
+ {
+  coords 2463.267 20.545 3693.604
+  angles 0 156 0
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.481 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0 -0.84 0.163
+    angles -24 0 0
+   }
+  }
+ }
+ {
+  coords 2351.026 17.336 3706.681
+  angles 0 139 0
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.416 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0.002 -2.108 -6.271
+    angles 14 0 -69
+   }
+  }
+ }
+ {
+  coords 2384.835 18.613 3694.835
+  angles 0 156 0
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.414 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0 -1.224 -1.375
+    angles 29 0 0
+   }
+  }
+ }
+ {
+  coords 2460.689 19.884 3742.097
+  angles 0 139 0
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.416 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0 -0.201 0
+   }
+  }
+ }
+ {
+  coords 2414.969 19.212 3721.502
+  angles 0 139 0
+  {
+   GenericEntity {
+    ID "65E289DBFA9CEDE9"
+    coords 0 -0.416 0
+   }
+   GenericEntity {
+    ID "65EC7D0BB837CF94"
+    coords 0 -0.383 0
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{DECF116069DCCC2B}Prefabs/Structures/Cultural/Castles/Castle_01_Tower.et" {
+ {
+  coords 3233.619 -4.821 3638.488
+  angles 0 5 0
+ }
+ {
+  coords 3269.752 -4.458 3590.835
+  angles 0 -83 0
+ }
+ {
+  coords 3287.076 -4.723 3669.16
+  angles 0 -175 0
+ }
+ {
+  coords 3206.747 -6.186 3683.944
+  angles 0 96 0
+ }
+ {
+  coords 3190.856 -4.979 3606.563
+  angles 0 7 0
+ }
+}
+$grp GenericEntity : "{E06C5B0E2595702B}Prefabs/Weapons/Attachments/Camouflage/Camouflage_M21/Camouflage_Wrap_ARTII.et" {
+ {
+  coords 3285.247 28.318 3623.934
+  angles -2 7 0
+  scale 7.798
+ }
+ {
+  coords 3281.592 28.345 3623.775
+  angles 0 7 0
+  scale 7.798
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{E17539BAD367C48C}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_Covered.et" {
+ {
+  coords 2983.606 0.749 2616.405
+  angles 0 24 0
+ }
+ {
+  coords 2984.039 0.372 2625.084
+  angles 0 21 0
+ }
+ {
+  coords 2973.913 0 2628.932
+  angles 0 21 0
+ }
+ {
+  coords 2967.809 0.001 2626.063
+  angles 0 23 0
+ }
+ {
+  coords 2963.331 0 2623.837
+  angles 0 24 0
+ }
+ {
+  coords 2963.764 0 2632.516
+  angles 0 21 0
+ }
+ {
+  coords 2979.563 0 2601.796
+  angles 0 23 0
+ }
+ {
+  coords 2979.844 0 2610.481
+  angles 0 20 0
+ }
+ {
+  coords 2973.792 0 2607.506
+  angles 0 22 0
+ }
+ {
+  coords 2969.577 -0.001 2605.938
+  angles 0 23 0
+ }
+ {
+  coords 2969.859 0 2614.624
+  angles 0 20 0
+ }
+ {
+  coords 2963.806 0 2611.649
+  angles 0 22 0
+ }
+ {
+  coords 2959.936 -0.001 2609.236
+  angles 0 23 0
+ }
+ {
+  coords 2960.218 0 2617.922
+  angles 0 20 0
+ }
+ {
+  coords 2954.165 0 2614.947
+  angles 0 22 0
+ }
+ {
+  coords 2964.655 0 2594.132
+  angles 0 23 0
+ }
+ {
+  coords 2974.922 0 2598.675
+  angles 0 20 0
+ }
+ {
+  coords 2949.242 0 2603.141
+  angles 0 22 0
+ }
+ {
+  coords 2955.296 0 2606.115
+  angles 0 20 0
+ }
+ {
+  coords 2955.014 0 2597.43
+  angles 0 23 0
+ }
+ {
+  coords 2958.884 0 2599.843
+  angles 0 22 0
+ }
+ {
+  coords 2960.446 0 2581.362
+  angles 0 23 0
+ }
+ {
+  coords 2964.66 0.001 2582.93
+  angles 0 22 0
+ }
+ {
+  coords 2970.712 0 2585.905
+  angles 0 20 0
+ }
+ {
+  coords 2970.431 0 2577.219
+  angles 0 23 0
+ }
+ {
+  coords 2945.033 -0.001 2590.37
+  angles 0 22 0
+ }
+ {
+  coords 2951.086 0 2593.345
+  angles 0 20 0
+ }
+ {
+  coords 2950.804 0 2584.659
+  angles 0 23 0
+ }
+ {
+  coords 2954.674 0 2587.073
+  angles 0 22 0
+ }
+ {
+  coords 2960.727 0 2590.047
+  angles 0 20 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{E608836E239F9AF8}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_FrameSquare_V1.et" {
+ {
+  coords 2979.842 0 2626.736
+  angles 0 25 0
+ }
+ {
+  coords 2969.716 0 2630.584
+  angles 0 25 0
+ }
+ {
+  coords 2975.619 0 2612.059
+  angles 0 24 0
+ }
+ {
+  coords 2965.634 0 2616.202
+  angles 0 24 0
+ }
+ {
+  coords 2955.994 0 2619.5
+  angles 0 24 0
+ }
+ {
+  coords 2951.071 0 2607.693
+  angles 0 24 0
+ }
+ {
+  coords 2960.712 0.001 2604.396
+  angles 0 24 0
+ }
+ {
+  coords 2966.488 0 2587.483
+  angles 0 24 0
+ }
+ {
+  coords 2946.862 0 2594.923
+  angles 0 24 0
+ }
+ {
+  coords 2956.502 0 2591.625
+  angles 0 24 0
+ }
+}
+$grp GenericEntity : "{E98385D7F126474C}Prefabs/Props/Wrecks/UH1H_wreck/UH1H_wreck_02_static.et" {
+ {
+  coords 2439.013 16.977 3761.399
+ }
+ {
+  coords 2427.074 18.833 3682.187
+ }
+ {
+  coords 2348.642 15.486 3683.418
+ }
+}
+$grp GenericEntity : "{EB084C400AABD1D3}Prefabs/Props/Wrecks/M151A2_wreck/M151A2_wreck.et" {
+ {
+  coords 2473.944 15.946 3812.353
+  angles 0 -156 0
+ }
+ {
+  coords 2450.135 16.3 3792.678
+  angles 0 96 0
+ }
+ {
+  coords 2462.005 18.5 3733.14
+  angles 0 -156 0
+ }
+ {
+  coords 2438.195 19.208 3713.466
+  angles 0 96 0
+ }
+ {
+  coords 2383.573 16.14 3734.371
+  angles 0 -156 0
+ }
+ {
+  coords 2359.763 16.512 3714.697
+  angles 0 96 0
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{F32EE7BA94C40389}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_CoveredDouble_V1.et" {
+ {
+  coords 2966.663 0 2622.658
+  angles 0 25 0
+ }
+ {
+  coords 2972.705 0 2604.081
+  angles 0 24 0
+ }
+ {
+  coords 2962.72 0 2608.224
+  angles 0 24 0
+ }
+ {
+  coords 2953.08 0 2611.521
+  angles 0 24 0
+ }
+ {
+  coords 2948.158 0 2599.715
+  angles 0 24 0
+ }
+ {
+  coords 2957.798 0 2596.418
+  angles 0 24 0
+ }
+ {
+  coords 2963.573 -0.001 2579.505
+  angles 0 24 0
+ }
+ {
+  coords 2943.948 0 2586.945
+  angles 0 24 0
+ }
+ {
+  coords 2953.588 -0.001 2583.647
+  angles 0 24 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{F5052C6CDD432BA7}Prefabs/Structures/Ruins/ShedMetal_Ruin_02/ShedMetal_Ruin_02.et" {
+ coords 3900.635 0 3027.316
+ angles 0 79 0
+}
+SCR_DestructibleBuildingEntity : "{FFCBF6EE23DC4153}Prefabs/Structures/Ruins/Barn_Ruin_01/Barn_Ruin_01_V2.et" {
+ coords 3935.372 0 3033.831
+ angles 0 -12 0
+}
