@@ -7625,7 +7625,7 @@ $grp GenericEntity {
     Object "{B443576E2F6E19AD}Assets/Structures/Walls/BarbedWire/Dst/BarbedTape_Long_dst_01.xob"
    }
   }
-  coords 2946.521 19.609 2853.663
+  coords 2946.521 19.312 2853.663
   angles 0 38 0
  }
  {
@@ -8110,7 +8110,7 @@ $grp GenericEntity {
     Object "{6577391115B12C31}Assets/Structures/Walls/BarbedWire/Dst/BarbedTape_Long_Dst_02.xob"
    }
   }
-  coords 2942.293 19.502 2852.212
+  coords 2942.293 19.072 2852.212
   angles 0 -85 0
  }
  {
@@ -8351,7 +8351,7 @@ $grp GenericEntity {
     Object "{B443576E2F6E19AD}Assets/Structures/Walls/BarbedWire/Dst/BarbedTape_Long_dst_01.xob"
    }
   }
-  coords 2942.436 19.792 2845.979
+  coords 2942.436 19.706 2845.979
  }
  {
   components {
